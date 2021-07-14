@@ -1,5 +1,5 @@
 # Draw2Develop-2 - Deep Learning & Web Dev
-A web application where you upload pictoral drawing of major HTML components which are transformed into a single page website via Deep Learning.
+A web application where you upload pictorial drawings of major HTML components which are transformed into a single page website via Deep Learning.
 
 ## Features
 - Single Page Website with minimal but professional frontend.
