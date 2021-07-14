@@ -12,7 +12,7 @@ We made a output website with HTML and CSS.
 - ### Libraries Used
   - <b>TensorFlow</b> : TensorFlow is a free and open-source software library for machine learning. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks.
   - <b>TensorFlow (Keras)</b> : Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result as fast as possible is key to doing good research. Keras is: Simple -- but not simplistic.
-- ### <b>Machine Learning:</b> 
+- ### <b>Activation Functions:</b> 
   - ELU : The Exponential Linear Unit (ELU) is an activation function for neural networks. In contrast to ReLUs, ELUs have negative values which allows them to push mean unit activations closer to zero like batch normalization but with lower computational complexity.<br></br>
     <img src="https://github.com/RakshitKumar04/Draw2Develop-2/blob/main/Activation%20function/Screenshot%202021-07-14%20185600.png" width="350">
   - ReLU : The rectified linear activation function (called ReLU) has been shown to lead to very high-performance networks. This function takes a single number as an input, returning 0 if the input is negative, and the input if the input is positive.<br></br>
