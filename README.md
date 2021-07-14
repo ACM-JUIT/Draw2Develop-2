@@ -12,7 +12,8 @@ We made a output website with HTML and CSS.
 - Libraries Used
   - <b>TensorFlow</b> : TensorFlow is a free and open-source software library for machine learning. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks.
   - <b>TensorFlow (Keras)</b> : Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result as fast as possible is key to doing good research. Keras is: Simple -- but not simplistic.
-- <b>Machine Learning:</b> Logistic regression (Supervised)
+- <b>Machine Learning:</b> 
+  - Logistic regression (Supervised) : Logistic regression is a supervised learning classification algorithm used to predict the probability of a target variable. ... In simple words, the dependent variable is binary in nature having data coded as either 1 (stands for success/yes) or 0 (stands for failure/no).
 - <b>Deep Learning:</b> In deep learning we implemented <b>CNN (Convolutional Neural Network)</b> which is a class of deep neural network that is used for Computer Vision or analyzing visual imagery.
 
 | COMPLETE DATASET      | INCOMPLETE DATASET      |
@@ -26,7 +27,7 @@ We created 100+ handdrawn datasets with complete variations i.e., with complete 
 | <img src="https://github.com/RakshitKumar04/Draw2Develop-2/blob/main/Images/Images/0092.jpg" width="350"> | <img src="https://github.com/RakshitKumar04/Draw2Develop-2/blob/main/Images/Images/0052.jpg" width="350"> |
 
 ## Result:
-
+Val_loss is 1.3
 
 ## Libraries Used
 - <b>pandas</b> : pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series.
