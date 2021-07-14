@@ -29,6 +29,10 @@ We created 100+ handdrawn datasets with complete variations i.e., with complete 
 ## Result:
 Val_loss is 1.3
 
+| COMPLETE DATASET      | INCOMPLETE DATASET      |
+|------------|-------------|
+| <img src="https://github.com/RakshitKumar04/Draw2Develop-2/blob/main/loss%20results/model%20with%20balanced%20dataset.png" width="350"> | <img src="https://github.com/RakshitKumar04/Draw2Develop-2/blob/main/loss%20results/model%20with%20less%20full%20images.png" width="350"> |
+
 ## Libraries Used
 - <b>pandas</b> : pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series.
 - <b>NumPy</b> : NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays
