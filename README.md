@@ -34,3 +34,7 @@ Val_loss is 1.3
 | COMPLETE DATASET      | INCOMPLETE DATASET      |
 |------------|-------------|
 | <img src="https://github.com/RakshitKumar04/Draw2Develop-2/blob/main/loss%20results/model%20with%20balanced%20dataset.png" width="350"> | <img src="https://github.com/RakshitKumar04/Draw2Develop-2/blob/main/loss%20results/model%20with%20less%20full%20images.png" width="350"> |
+
+| DATASET      | ORDER OF RESULT      |
+|------------|-------------|
+| <img src="https://github.com/RakshitKumar04/Draw2Develop-2/blob/main/Images/Images/0082.jpg" width="350"> | Navbar-> sidebar-> footer-> main  |
