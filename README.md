@@ -13,7 +13,7 @@ We made a output website with HTML and CSS.
   - <b>TensorFlow</b> : TensorFlow is a free and open-source software library for machine learning. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks.
   - <b>TensorFlow (Keras)</b> : Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result as fast as possible is key to doing good research. Keras is: Simple -- but not simplistic.
 - <b>Machine Learning:</b> Logistic regression (Supervised)
-- <b>Deep Learning:</b> In deep learning we implemented <b>CNN</b>
+- <b>Deep Learning:</b> In deep learning we implemented <b>CNN (Convolutional Neural Network)</b> which is a class of deep neural network that is used for Computer Vision or analyzing visual imagery.
 
 | COMPLETE DATASET      | INCOMPLETE DATASET      |
 |------------|-------------|
