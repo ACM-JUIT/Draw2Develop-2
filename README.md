@@ -6,6 +6,27 @@ A web application where you upload pictorial drawings of major HTML components w
 - Pictoral Representation : A paper drawing with major HTML componets (nav, aside, main and footer) as dataset. ( you are free to create a dataset except mentioned componets as per your imagination but the basis goal of project must remain intact )
 - Deep Learning Model : A trained DL model to capture drawn components.
 - HTML Part : modular HTML componets with minimal CSS wich are independent and can be mixed with each other to create a web page.
+
+## Model:
+We made a output website with HTML and CSS.
+- Libraries Used
+  - <b>TensorFlow</b> : TensorFlow is a free and open-source software library for machine learning. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks.
+- <b>Machine Learning:</b> Logistic regression (Supervised)
+- <b>Deep Learning:</b> In deep learning we implemented <b>CNN</b>
+
+| COMPLETE DATASET      | INCOMPLETE DATASET      |
+|------------|-------------|
+| <img src="https://github.com/RakshitKumar04/Draw2Develop-2/blob/main/loss%20results/model%20with%20balanced%20dataset.png" width="350"> | <img src="https://github.com/RakshitKumar04/Draw2Develop-2/blob/main/loss%20results/model%20with%20less%20full%20images.png" width="350"> |
+
+## Dataset:
+We created 100+ handdrawn datasets with complete variations i.e., with complete and incomplete components.
+| COMPLETE COMPONENTS      | INCOMPLETE COMPONENTS      |
+|------------|-------------|
+| <img src="https://github.com/RakshitKumar04/Draw2Develop-2/blob/main/Images/Images/0092.jpg" width="350"> | <img src="https://github.com/RakshitKumar04/Draw2Develop-2/blob/main/Images/Images/0052.jpg" width="350"> |
+
+## Result:
+
+
 ## Libraries Used
 - <b>pandas</b> : pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series.
 - <b>NumPy</b> : NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays
