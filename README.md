@@ -16,10 +16,6 @@ We made a output website with HTML and CSS.
   - Logistic regression (Supervised) : Logistic regression is a supervised learning classification algorithm used to predict the probability of a target variable. ... In simple words, the dependent variable is binary in nature having data coded as either 1 (stands for success/yes) or 0 (stands for failure/no).
 - <b>Deep Learning:</b> In deep learning we implemented <b>CNN (Convolutional Neural Network)</b> which is a class of deep neural network that is used for Computer Vision or analyzing visual imagery.
 
-| COMPLETE DATASET      | INCOMPLETE DATASET      |
-|------------|-------------|
-| <img src="https://github.com/RakshitKumar04/Draw2Develop-2/blob/main/loss%20results/model%20with%20balanced%20dataset.png" width="350"> | <img src="https://github.com/RakshitKumar04/Draw2Develop-2/blob/main/loss%20results/model%20with%20less%20full%20images.png" width="350"> |
-
 ## Dataset:
 We created 100+ handdrawn datasets with complete variations i.e., with complete and incomplete components.
 | COMPLETE COMPONENTS      | INCOMPLETE COMPONENTS      |
