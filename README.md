@@ -9,14 +9,18 @@ A web application where you upload pictorial drawings of major HTML components w
 
 ## Model:
 We made a output website with HTML and CSS.
-- Libraries Used
+- ### Libraries Used
   - <b>TensorFlow</b> : TensorFlow is a free and open-source software library for machine learning. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks.
   - <b>TensorFlow (Keras)</b> : Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result as fast as possible is key to doing good research. Keras is: Simple -- but not simplistic.
-- <b>Machine Learning:</b> 
-  - ELU : The Exponential Linear Unit (ELU) is an activation function for neural networks. In contrast to ReLUs, ELUs have negative values which allows them to push mean unit activations closer to zero like batch normalization but with lower computational complexity.
-  - ReLU : The rectified linear activation function (called ReLU) has been shown to lead to very high-performance networks. This function takes a single number as an input, returning 0 if the input is negative, and the input if the input is positive.
-  - Sigmoid : The sigmoid function is a mathematical logistic function. It is commonly used in statistics, audio signal processing, biochemistry, and the activation function in artificial neurons. The formula for the sigmoid function is F(x) = 1/(1 + e^(-x)).
-- <b>Deep Learning:</b> In deep learning we implemented <b>CNN (Convolutional Neural Network)</b> which is a class of deep neural network that is used for Computer Vision or analyzing visual imagery.
+- ### <b>Machine Learning:</b> 
+  - ELU : The Exponential Linear Unit (ELU) is an activation function for neural networks. In contrast to ReLUs, ELUs have negative values which allows them to push mean unit activations closer to zero like batch normalization but with lower computational complexity.<br></br>
+    <img src="https://github.com/RakshitKumar04/Draw2Develop-2/blob/main/Activation%20function/Screenshot%202021-07-14%20185600.png" width="350">
+  - ReLU : The rectified linear activation function (called ReLU) has been shown to lead to very high-performance networks. This function takes a single number as an input, returning 0 if the input is negative, and the input if the input is positive.<br></br>
+    <img src="https://github.com/RakshitKumar04/Draw2Develop-2/blob/main/Activation%20function/Screenshot%202021-07-14%20185627.png" width="350">
+  - Sigmoid : The sigmoid function is a mathematical logistic function. It is commonly used in statistics, audio signal processing, biochemistry, and the activation function in artificial neurons. The formula for the sigmoid function is F(x) = 1/(1 + e^(-x)).<br></br>
+    <img src="https://github.com/RakshitKumar04/Draw2Develop-2/blob/main/Activation%20function/Screenshot%202021-07-14%20185446.png" width="350">
+- ### <b>Deep Learning:</b> 
+  - In deep learning we implemented <b>CNN (Convolutional Neural Network)</b> which is a class of deep neural network that is used for Computer Vision or analyzing visual imagery.
 
 ## Dataset:
 We created 100+ handdrawn datasets with complete variations i.e., with complete and incomplete components.
